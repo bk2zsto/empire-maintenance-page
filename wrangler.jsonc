@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "empire-maintenance-page",
+	"name": "claimaccount-maintenance-page",
 	"main": "src/index.js",
 	"compatibility_date": "2025-12-13",
 	"observability": {
