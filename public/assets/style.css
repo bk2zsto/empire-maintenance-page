@@ -1,0 +1,20 @@
+  body { background-color: darkblue; }
+  h1 {
+    font-family: sans-serif;
+    color: white;
+  }
+  div {
+    text-align: center;
+    margin: auto;
+  }
+  p {
+    font-weight: bold;
+    color: white;
+    font-family: sans-serif;
+  }
+  img {
+    margin-top: 5%;
+  }
+  a {
+    color: gray;
+  }

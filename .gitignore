@@ -172,7 +172,7 @@ dist
 .wrangler/
 
 # Hugo builds
-public/
+#public/
 .aider*
 
 # Ananke theme

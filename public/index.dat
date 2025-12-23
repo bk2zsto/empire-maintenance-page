@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+<div>
+  <img src="/assets/logo.png">
+  <h1>System Maintenance In Progress</h1>
+  <p>This system is currently unavailable because of scheduled maintenance.
+  We apologize for the inconvenience.</p>
+  <p>Thank you for your patience as we work 
+  to improve Empire State University's technology infrastructure.</p>
+</div>
+</body>
+</html>
